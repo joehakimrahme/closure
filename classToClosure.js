@@ -3,7 +3,7 @@
 
 //Class definition
 class Cat {
-  constructor(tiredness, hunger, loneliness, happiness) {
+  constructor(tiredness) {
     this.tiredness = tiredness;
   }
 
